@@ -1,6 +1,6 @@
 # Atividades-de-L-gica-de-Programa-o-em-Kotlin---SENAI
 
-// ---- Lista 01 ---- //
+// ---- Lista 02 ---- //
 // ---- Calculo De IMC ---- //
 
 fun main() {
